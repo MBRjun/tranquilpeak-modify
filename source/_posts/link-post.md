@@ -4,8 +4,9 @@ link: http://www.hexo.io/
 categories:
 - tranquilpeak
 - features
-thumbnailImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_140,h_140/v1438887902/peak-8.jpg
-
+thumbnailImagePosition: left
+thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/hexo-website/peak-140.jpg
 ---
 
 This is a link post. Clicking on the link should open [Hexo](http://www.hexo.io/) in a new tab or window.
+<!-- excerpt -->

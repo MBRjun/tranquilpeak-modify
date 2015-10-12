@@ -1,6 +1,7 @@
 title: Video integrations showcase
 date: 2014-08-09 20:30:05
-thumbnailImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_140,h_140/v1438887908/peak-6.jpg
+thumbnailImagePosition: left
+thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
 categories:
 - tranquilpeak
 - features

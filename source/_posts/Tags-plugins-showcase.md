@@ -2,8 +2,9 @@ title: "Tags plugins showcase"
 date: 2014-10-29 20:30:05
 tags:
 - tag plugins
-thumbnailImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_140,h_140/v1438891368/car-6.jpg
-coverImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_1920,h_1080/v1438891368/car-6.jpg
+thumbnailImagePosition: left
+thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-6-140.jpg
+coverImage: http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-6.jpg
 
 ---
 
@@ -36,46 +37,46 @@ Every interaction is both precious and an opportunity to delight.
 
 ## Wide image (wide_image)
 
-{% wide_image http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891412/car-1.jpg "Mercedes SLS" %}
+{% wide_image http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg "Mercedes SLS" %}
 
 ## Image (image)
 
 
-{% image fancybox fig-100 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891400/car-15.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_750/v1438891400/car-15.jpg %}
+{% image fancybox fig-100 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg %}
 
-{% image fancybox nocaption fig-50 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891396/car-4.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_375/v1438891396/car-4.jpg"Ferrari" %}
-{% image fancybox nocaption fig-50 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891357/car-12.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_375/v1438891357/car-12.jpg "BMW i8 Concept" %}
+{% image fancybox nocaption fig-50 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4-375.jpg"Ferrari" %}
+{% image fancybox nocaption fig-50 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12-375.jpg "BMW i8 Concept" %}
 
-{% image fancybox nocaption fig-33  http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891350/car-14.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_250/v1438891350/car-14.jpg %}
-{% image fancybox nocaption fig-33 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891405/car-9.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_250/v1438891405/car-9.jpg %}
-{% image fancybox nocaption fig-33 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891391/car-2.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_250/v1438891391/car-2.jpg %}
+{% image fancybox nocaption fig-33  http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg %}
+{% image fancybox nocaption fig-33 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9-250.jpg %}
+{% image fancybox nocaption fig-33 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2-250.jpg %}
 
-{% image right fancybox fig-75 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891390/car-11.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_560/v1438891390/car-11.jpg %}
-{% image right fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891365/car-8.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438891365/car-8.jpg %}
-{% image right fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891355/car-10.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438891355/car-10.jpg %}
-{% image right fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891351/car-5.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438891351/car-5.jpg %}
+{% image right fancybox fig-75 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11-560.jpg %}
+{% image right fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8-185.jpg %}
+{% image right fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10-185.jpg %}
+{% image right fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5-185.jpg %}
 
-{% image fancybox fig-50 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438891417/car-13.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_375/v1438891417/car-13.jpg %}
-{% image fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892912/car-17.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892912/car-17.jpg %}
-{% image fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892910/car-18.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892910/car-18.jpg %}
-{% image fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892909/car-19.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892909/car-19.jpg %}
-{% image clear fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892909/car-20.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892909/car-20.jpg %}
+{% image fancybox fig-50 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13-375.jpg %}
+{% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17-185.jpg %}
+{% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18-185.jpg %}
+{% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19-185.jpg %}
+{% image clear fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20-185.jpg %}
 
-{% image fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892909/car-21.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892909/car-21.jpg %}
-{% image fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892905/car-22.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892905/car-22.jpg %}
-{% image fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892904/car-23.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892904/car-23.jpg %}
-{% image clear fancybox fig-25 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892894/car-24.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_185/v1438892894/car-24.jpg %}
+{% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21-185.jpg %}
+{% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22-185.jpg %}
+{% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23-185.jpg %}
+{% image clear fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24-185.jpg %}
 
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892892/car-25.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438892892/car-25.jpg %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892892/car-26.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438892892/car-26.jpg %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892888/car-27.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438892888/car-27.jpg %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892878/car-28.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438892878/car-28.jpg %}
-{% image clear fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438892877/car-29.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438892877/car-29.jpg %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438893632/car-35.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438893632/car-35.jpg %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438893641/car-30.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438893641/car-30.jpg %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438893639/car-31.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438893639/car-31.jpg  %}
-{% image fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438893637/car-32.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438893637/car-32.jpg %}
-{% image clear fig-20 http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438893635/car-34.jpg http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_150/v1438893635/car-34.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28-150.jpg %}
+{% image clear fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31-150.jpg %}
+{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg %}
+{% image clear fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg %}
 
 
 

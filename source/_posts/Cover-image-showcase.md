@@ -1,6 +1,7 @@
 title: "Cover image showcase"
-thumbnailImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_140,h_140/v1438976992/city-2.jpg
-coverImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/v1438976992/city-2.jpg
+thumbnailImagePosition: left
+thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+coverImage: http://d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
 date: 2015-05-13 20:30:05

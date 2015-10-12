@@ -6,8 +6,8 @@ categories:
 tags: 
 - highlight code
 - github theme
-thumbnailImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_140,h_140/v1438887909/peak-5.jpg
-
+thumbnailImagePosition: left
+thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/highlighted-code-showcase/peak-140.jpg
 ---
 
 Tranquilpeak Hexo theme have its own theme to highlight source code. It's based on GitHub theme: simple and elegant. Check out how it sublimate source codes.

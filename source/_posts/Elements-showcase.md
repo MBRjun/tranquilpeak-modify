@@ -6,7 +6,8 @@ categories:
 tags:
 - html elements
 - markdown
-thumbnailImage: http://res.cloudinary.com/tranquilpeak-hexo-theme/image/upload/w_140,h_140/v1438893993/vintage-2.jpg
+thumbnailImagePosition: left
+thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
 
 ---
 
