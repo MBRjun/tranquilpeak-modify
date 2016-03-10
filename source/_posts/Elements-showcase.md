@@ -1,3 +1,4 @@
+---
 title: "Elements showcase"
 date: 2015-05-28 20:30:05
 categories:
@@ -8,13 +9,10 @@ tags:
 - markdown
 thumbnailImagePosition: left
 thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
-
 ---
 
 Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It's simple and elegant.
-<!--more-->
-
----
+<!-- more -->
 
 # Heading 1
 
@@ -28,7 +26,6 @@ Check out how Tranquilpeak theme display well HTML elements (title, paragraph, b
 
 ###### Heading 6
 
----
 
 ## Paragraph
 
@@ -36,12 +33,6 @@ Lorem ipsum dolor sit amet, [test link]() consectetur adipiscing elit. **Strong 
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.
 
-> Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
-
-<div class="pullquote right">
-Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
-</div>
-Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.
 
 ## List Types
 
@@ -63,8 +54,9 @@ Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean conval
 
 ## Table
 
-| Table Header 1 | Table Header 2 | Table Header 3 |
+| Header 1 | Header 2 | Header 3 |
 | - | - | - |
+| Division 1 | Division 2 | Division 3 |
 | Division 1 | Division 2 | Division 3 |
 | Division 1 | Division 2 | Division 3 |
 | Division 1 | Division 2 | Division 3 |

@@ -1,3 +1,4 @@
+---
 title: "highlighted code showcase"
 date: 2015-03-23 20:30:05
 categories:
@@ -11,9 +12,11 @@ thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/highlighted-code-showcase/p
 ---
 
 Tranquilpeak Hexo theme have its own theme to highlight source code. It's based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
-<!--more-->
+<!-- more -->
 
-APACHECONF
+<!-- toc -->
+
+# APACHECONF
 {% codeblock apache.conf lang:apacheConf http://underscorejs.org/#compact apache.conf %}
 # rewrite`s rules for wordpress pretty url
 LoadModule rewrite_module  modules/mod_rewrite.so
@@ -36,7 +39,7 @@ Allow from All
 </Location>
 {% endcodeblock %}
 
-BASH
+# BASH
 {% codeblock test.bash lang:bash http://underscorejs.org/#compact test.bash %}
 
 #!/bin/bash
@@ -71,8 +74,8 @@ genApacheConf(){
 }
 {% endcodeblock %}
 
-Coffeescript
-{% codeblock archives.coffee lang:coffeescript http://underscorejs.org/#compact archives.coffee %}
+# Coffeescript
+{% codeblock lang:coffeescript %}
  ###
  Some tests
  ###
@@ -126,7 +129,7 @@ Coffeescript
  }`
 {% endcodeblock %}
 
-C++
+# C++
 {% codeblock archives.cpp lang:cpp http://underscorejs.org/#compact archives.cpp %}
 /*
  * Block comment
@@ -166,7 +169,7 @@ namespace foo {
 }
 {% endcodeblock %}
 
-CShparp
+# CShparp
 {% codeblock archives.cs lang:cs http://underscorejs.org/#compact archives.cs %}
 using System;
 
@@ -195,7 +198,7 @@ async Task<int> AccessTheWebAsync()
 }
 {% endcodeblock %}
 
-CSS
+# CSS
 {% codeblock archives.css lang:css http://underscorejs.org/#compact archives.css %}
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   body:first-of-type pre::after {
@@ -224,7 +227,7 @@ li[lang=ru] {
 }
 {% endcodeblock %}
 
-DIFF
+# DIFF
 {% codeblock archives.diff lang:diff http://underscorejs.org/#compact archives.diff %}
 Index: languages/ini.js
 ===================================================================
@@ -258,7 +261,7 @@ Index: languages/ini.js
   It is important to spell
 {% endcodeblock %}
 
-HTTP
+# HTTP
 {% codeblock archives.http lang:http http://underscorejs.org/#compact archives.http %}
 POST /task?id=1 HTTP/1.1
 Host: example.org
@@ -268,7 +271,7 @@ Content-Length: 19
 {"status": "ok", "extended": true}
 {% endcodeblock %}
 
-INI
+# INI
 {% codeblock archives.ini lang:ini http://underscorejs.org/#compact archives.ini %}
 ;Settings relating to the location and loading of the database
 [Database]
@@ -284,7 +287,7 @@ Glob=autoexec_*.ini
 AskAboutIgnoredPlugins=0
 {% endcodeblock %}
 
-JAVA
+# JAVA
 {% codeblock archives.java lang:java http://underscorejs.org/#compact archives.java %}
 /* Block comment */
 import java.util.Date;
@@ -323,7 +326,7 @@ abstract class SomeAbstractClass {
 }
 {% endcodeblock %}
 
-JavaScript
+# JavaScript
 {% codeblock archives.js lang:js http://underscorejs.org/#compact archives.js %}
 function $initHighlight(block, flags) {
   try {
@@ -343,7 +346,7 @@ function $initHighlight(block, flags) {
 }
 {% endcodeblock %}
 
-JSON
+# JSON
 {% codeblock archives.json lang:json http://underscorejs.org/#compact archives.json %}
 [
   {
@@ -359,7 +362,7 @@ JSON
 ]
 {% endcodeblock %}
 
-Makefile
+# Makefile
 
 {% codeblock archives.mak lang:mak http://underscorejs.org/#compact archives.mak %}
 # Makefile
@@ -377,7 +380,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 {% endcodeblock %}
 
-Markdown
+# Markdown
 
 {% codeblock archives.md lang:md http://underscorejs.org/#compact archives.md %}
 # hello world
@@ -404,7 +407,7 @@ hello world
 2. two thing `i can write code`, and `more` wipee!
 {% endcodeblock %}
 
-Nginx
+# Nginx
 
 {% codeblock archives.conf lang:nginx http://underscorejs.org/#compact archives.conf %}
 user  www www;
@@ -455,7 +458,7 @@ http {
     }
 {% endcodeblock %}
 
-Objective-C
+# Objective-C
 
 {% codeblock archives.m lang:objectivec http://underscorejs.org/#compact archives.m %}
 #import <UIKit/UIKit.h>
@@ -503,7 +506,7 @@ Objective-C
 @end
 {% endcodeblock %}
 
-Perl
+# Perl
 
 {% codeblock archives.perl lang:perl http://underscorejs.org/#compact archives.perl %}
 # loads object
@@ -540,7 +543,7 @@ sub load
 POD till the end of file
 {% endcodeblock %}
 
-PHP
+# PHP
 
 {% codeblock archives.php lang:php http://underscorejs.org/#compact archives.php %}
 <?php
@@ -583,7 +586,7 @@ Label:
 <php_bad>№</php_bad>
 {% endcodeblock %}
 
-Python
+# Python
 
 {% codeblock archives.py lang:python http://underscorejs.org/#compact archives.py %}
 @requires_authorization
@@ -600,7 +603,7 @@ class SomeClass:
 ... prompt'''
 {% endcodeblock %}
 
-Ruby
+# Ruby
 
 {% codeblock archives.rb lang:ruby http://underscorejs.org/#compact archives.rb %}
 class A < B; def self.create(object = User) object end end
@@ -633,7 +636,7 @@ hash = {1 => 'one', 2 => 'two'}
  => ["some"]
 {% endcodeblock %}
 
-SQL
+# SQL
 
 {% codeblock archives.sql lang:sql http://underscorejs.org/#compact archives.sql %}
 BEGIN;
@@ -657,26 +660,36 @@ but who cares?
 COMMIT
 {% endcodeblock %}
 
-HTML
+# HTML
 
 {% codeblock archives.html lang:xml http://underscorejs.org/#compact archives.html %}
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
-<!--
-*        Sample comment
--->
-<HTML>
-<head>
-<title>WebStorm</title>
-</head>
+&<?xml version="1.0"?>
+<response value="ok" xml:lang="en">
+  <text>Ok</text>
+  <comment html_allowed="true"/>
+  <ns1:description><![CDATA[
+  CDATA is <not> magical.
+  ]]></ns1:description>
+  <a></a> <a/>
+</response>
+
+
+<!DOCTYPE html>
+<title>Title</title>
+
+<style>body {width: 500px;}</style>
+
+<script type="application/javascript">
+  function $init() {return true;}
+</script>
+
 <body>
-<h1>WebStorm</h1>
-<p><br><b><IMG border=0 height=12 src="images/hg.gif" width=18 >
-What is WebStorm? &#x00B7; &Alpha; </b><br><br>
+  <p checked class="title" id='title'>Title</p>
+  <!-- here goes the rest of the page -->
 </body>
-</html>
 {% endcodeblock %}
 
-Puppet
+# Puppet
 
 {% codeblock archives.pp lang:puppet http://underscorejs.org/#compact archives.pp %}
 class hg_punch::library {
@@ -784,7 +797,7 @@ class hg_punch::library {
 }
 {% endcodeblock %}
 
-LESS
+# LESS
 
 {% codeblock archives.less lang:less http://underscorejs.org/#compact archives.less %}
 @import 'mixins'; // external mixins
@@ -813,7 +826,7 @@ div > p, p ~ ul, input[type="radio"] {
 }
 {% endcodeblock %}
 
-SCSS
+# SCSS
 
 {% codeblock archives.scss lang:scss http://underscorejs.org/#compact archives.scss %}
 .btn {
@@ -866,7 +879,7 @@ SCSS
 }
 {% endcodeblock %}
 
-Stylus
+# Stylus
 
 {% codeblock archives.styl lang:stylus http://underscorejs.org/#compact archives.styl %}
 @import "nib"
@@ -896,7 +909,7 @@ button
   width 100%
 {% endcodeblock %}
 
-Go
+# Go
 
 {% codeblock archives.go lang:go http://underscorejs.org/#compact archives.go %}
 package main
@@ -935,7 +948,7 @@ func main() {
 }
 {% endcodeblock %}
 
-Swift
+# Swift
 
 {% codeblock archives.swift lang:swift http://underscorejs.org/#compact archives.swift %}
 extension MyClass : Interface {

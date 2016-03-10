@@ -10,7 +10,6 @@ categories:
 - features
 tags:
 - cover image
-
 ---
  
 Tranquilpeak integrate a unique "cover image" feature. Open this post to see how this feature sublimate your article.
