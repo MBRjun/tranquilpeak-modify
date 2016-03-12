@@ -12,7 +12,7 @@ This post is used to show how tag plugins are displayed. See [docs](https://gith
 
 <!-- toc -->
 
-# Alert (alert)
+# Alert
 
 Read documentation to know how to use [Alert tag](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#alert)
 
@@ -32,7 +32,7 @@ Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
 Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
 {% endalert %}
 
-# Block Quote (blockquote)
+# Block Quote
 
 Read documentation to know how to use [Block Quote tag](https://hexo.io/docs/tag-plugins.html#Block_Quote)
 
@@ -58,7 +58,7 @@ NEW: DevDocs now comes with syntax highlighting. http://devdocs.io
 Every interaction is both precious and an opportunity to delight.
 {% endblockquote %}
 
-# Code Block (codeblock)
+# Code Block
 
 Read documentation to know how to use [Code Block tag](https://hexo.io/docs/tag-plugins.html#Code_Block)
 
@@ -93,7 +93,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 </Location>
 {% endcodeblock %}
 
-# Gist (gist)
+# Gist
 
 Read documentation to know how to use [Gist tag](https://hexo.io/docs/tag-plugins.html#Gist)
 
@@ -101,7 +101,7 @@ Read documentation to know how to use [Gist tag](https://hexo.io/docs/tag-plugin
 
 {% gist 996818 %}
 
-# Image (image)
+# Image
 
 Read documentation to know how to use [Image tag](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#image)
 
@@ -142,7 +142,7 @@ Read documentation to know how to use [Image tag](https://github.com/LouisBarran
 {% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg %}
 {% image clear fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg %}
 
-# jsFiddle (jsfiddle)
+# jsFiddle
 
 Read documentation to know how to use [jsFiddle tag](https://hexo.io/docs/tag-plugins.html#jsFiddle)
 
@@ -150,7 +150,7 @@ Read documentation to know how to use [jsFiddle tag](https://hexo.io/docs/tag-pl
 
 {% jsfiddle ccWP7 %}
 
-# Pull Quote (pullquote)
+# Pull Quote
 
 Read documentation to know how to use [Pull Quote tag](https://hexo.io/docs/tag-plugins.html#Pull_Quote)
 
@@ -169,13 +169,93 @@ Maecenas mattis interdum ante, quis sagittis nibh cursus et. Nulla facilisi. Mor
 Proin vestibulum felis eget orci consectetur lobortis. Vestibulum augue nulla, iaculis vitae augue vehicula, 
 dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.
 
-# Highlight text (hl_text)
+# Highlight text
 
 Read documentation to know how to use [Highlight text tag](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#highlight-text)
 
 <p>{% hl_text red %}highlight red{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text green %}highlight green{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text blue %}highlight blue{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text purple %}highlight purple{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text orange %}highlight orange{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text yellow %}highlight yellow{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text cyan %}highlight cyan{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text primary %}highlight primary{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text success %}highlight success{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text warning %}highlight warning{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.{% hl_text danger %}highlight danger{% endhl_text %} dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.</p>
 
-# Youtube (youtube)
+# Tabbed code block
+
+Read documentation to know how to use [Tabbed code block](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#tabbed-code-block)
+
+<p></p>
+
+{% tabbed_codeblock tabbed_codeblock %}
+<!-- tab js -->
+function $initHighlight(block, flags) {
+  try {
+    if (block.className.search(/\bno\-highlight\b/) != -1)
+      return processBlock(block.function, true, 0x0F) + ' class=""';
+  } catch (e) {
+    /* handle exception */
+    var e4x =
+        <div>Example
+            <p>1234</p></div>;
+  }
+  for (var i = 0 / 2; i < classes.length; i++) { // "0 / 2" should not be parsed as regexp
+    if (checkCondition(classes[i]) === undefined)
+      return /\d+[\s/]/g;
+  }
+  console.log(Array.every(classes, Boolean));
+}
+<!-- endtab -->
+<!-- tab css -->
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  body:first-of-type pre::after {
+    content: 'highlight: ' attr(class);
+  }
+  body {
+    background: linear-gradient(45deg, blue, red);
+  }
+}
+
+@import url('print.css');
+@page:right {
+ margin: 1cm 2cm 1.3cm 4cm;
+}
+
+@font-face {
+  font-family: Chunkfive; src: url('Chunkfive.otf');
+}
+
+div.text,
+#content,
+li[lang=ru] {
+  font: Tahoma, Chunkfive, sans-serif;
+  background: url('hatch.png') /* wtf? */;  color: #F0F0F0 !important;
+  width: 100%;
+}
+<!-- endtab -->
+<!-- tab html -->
+<?xml version="1.0"?>
+<response value="ok" xml:lang="en">
+  <text>Ok</text>
+  <comment html_allowed="true"/>
+  <ns1:description><![CDATA[
+  CDATA is <not> magical.
+  ]]></ns1:description>
+  <a></a> <a/>
+</response>
+
+
+<!DOCTYPE html>
+<title>Title</title>
+
+<style>body {width: 500px;}</style>
+
+<script type="application/javascript">
+  function $init() {return true;}
+</script>
+
+<body>
+  <p checked class="title" id='title'>Title</p>
+  <!-- here goes the rest of the page -->
+</body>
+<!-- endtab -->
+{% endtabbed_codeblock %}
+
+# Youtube
 
 Read documentation to know how to use [Youtube tag](https://hexo.io/docs/tag-plugins.html#YouTube)
 
@@ -183,7 +263,7 @@ Read documentation to know how to use [Youtube tag](https://hexo.io/docs/tag-plu
 
 {% youtube BSVkI3Ds8E %}
 
-# Vimeo (vimeo)
+# Vimeo
 
 Read documentation to know how to use [Vimeo tag](https://hexo.io/docs/tag-plugins.html#Vimeo)
 
@@ -191,7 +271,7 @@ Read documentation to know how to use [Vimeo tag](https://hexo.io/docs/tag-plugi
 
 {% vimeo 147585091 %}
 
-# Wide image (wide_image)
+# Wide image
 
 Read documentation to know how to use [Wide image tag](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#wide-image)
 
