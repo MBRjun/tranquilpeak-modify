@@ -124,23 +124,28 @@ Read documentation to know how to use [Image tag](https://github.com/LouisBarran
 {% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17-185.jpg %}
 {% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18-185.jpg %}
 {% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19-185.jpg %}
-{% image clear fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20-185.jpg %}
+{% image fancybox fig-25 clear http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20-185.jpg %}
 
 {% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21-185.jpg %}
 {% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22-185.jpg %}
 {% image fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23-185.jpg %}
-{% image clear fancybox fig-25 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24-185.jpg %}
+{% image fancybox fig-25 clear http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24-185.jpg %}
 
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28-150.jpg %}
-{% image clear fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31-150.jpg %}
-{% image fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg %}
-{% image clear fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28-150.jpg %}
+{% image fancybox fig-20 clear http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31-150.jpg %}
+{% image fancybox fig-20 http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg %}
+{% image fancybox fig-20 clear http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg %}
+
+# Video
+
+{% video https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4 "Self hosted video" %}
+
 
 # jsFiddle
 
@@ -148,25 +153,25 @@ Read documentation to know how to use [jsFiddle tag](https://hexo.io/docs/tag-pl
 
 <p></p>
 
-{% jsfiddle ccWP7 %}
+{% jsfiddle dpgvst4n %}
 
 # Pull Quote
 
 Read documentation to know how to use [Pull Quote tag](https://hexo.io/docs/tag-plugins.html#Pull_Quote)
 
-Donec non tempus arcu. 
+Donec non tempus arcu.
 Phasellus adipiscing, mauris nec mollis egestas, ipsum nunc auctor velit, et rhoncus lorem ipsum at ante. Duis vel mauris nulla. Maecenas mattis interdum ante, quis sagittis.
 {% pullquote left %}
-Here is a pullquote left. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Here is a pullquote left. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {% endpullquote %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus molestie arcu, et 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus molestie arcu, et
 fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum feugiat egestas. Suspendisse elementum, velit eu consequat consequat, augue lorem dapibus libero, eget pulvinar dolor est sit amet nulla. Suspendisse a porta tortor, et posuere mi. Pellentesque ultricies, mi quis volutpat malesuada, erat felis vulputate nisl, ac congue ante tortor ut ante. Proin aliquam sem vel mauris tincidunt, elementum ullamcorper nisl pretium, ultrices cursus justo. Mauris porttitor commodo eros, ac ornare orci interdum in. Cras fermentum cursus leo sed mattis. In dignissim lorem sem, sit amet elementum mauris venenatis ac.
 {% pullquote right %}
-Here is a pullquote right. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Here is a pullquote right. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {% endpullquote %}
-Donec non tempus arcu. Phasellus adipiscing, mauris nec mollis egestas, ipsum nunc auctor velit, et rhoncus lorem ipsum at ante. Duis vel mauris nulla. 
-Maecenas mattis interdum ante, quis sagittis nibh cursus et. Nulla facilisi. Morbi convallis gravida tortor, ut fermentum enim gravida et. Nunc vel dictum nisl, non ultrices libero. 
-Proin vestibulum felis eget orci consectetur lobortis. Vestibulum augue nulla, iaculis vitae augue vehicula, 
+Donec non tempus arcu. Phasellus adipiscing, mauris nec mollis egestas, ipsum nunc auctor velit, et rhoncus lorem ipsum at ante. Duis vel mauris nulla.
+Maecenas mattis interdum ante, quis sagittis nibh cursus et. Nulla facilisi. Morbi convallis gravida tortor, ut fermentum enim gravida et. Nunc vel dictum nisl, non ultrices libero.
+Proin vestibulum felis eget orci consectetur lobortis. Vestibulum augue nulla, iaculis vitae augue vehicula,
 dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.
 
 # Highlight text
@@ -261,7 +266,7 @@ Read documentation to know how to use [Youtube tag](https://hexo.io/docs/tag-plu
 
 <p></p>
 
-{% youtube BSVkI3Ds8E %}
+{% youtube GmfDbshFF74 %}
 
 # Vimeo
 
