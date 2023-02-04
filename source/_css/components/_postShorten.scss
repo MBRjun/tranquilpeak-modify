@@ -99,7 +99,7 @@
             img {
                 display:    block;
                 width:      $post-thumbnail-image-width;
-                height:     $post-thumbnail-image-width;
+                height:     $post-thumbnail-image-height;
                 object-fit: cover;
                 overflow:   hidden;
             }
@@ -117,7 +117,7 @@
             img {
                 display:    block;
                 width:      $post-thumbnail-image-width;
-                height:     $post-thumbnail-image-width;
+                height:     $post-thumbnail-image-height;
                 object-fit: cover;
                 overflow:   hidden;
             }
